@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashankleshwariya&label=Profile%20views&color=0e75b6&style=flat" alt="yashankleshwariya" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning,Tableau, Power Bi, Python,SQL,R**
+- 🔭 I’m currently working on **Machine Learning,Tableau, Power Bi, Python ,SQL ,R **
 
 - 📫 How to reach me **ankleshwariyayash@gmail.com**
 
