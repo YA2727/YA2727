@@ -10,7 +10,7 @@
 
 - My 3.5 years of expertise in the banking sector and a highly inquisitive mind has always given me more clarity on the various banking business challenges. I have realised that the current data exploration tools used, such as MS Excel and MS Access has always made data handling and daily business activities prolonged and less efficient. It is not ideal, but it's the reality on the ground.
 
-So, in-order to bring most insights out of a given data in the most effective and efficient way, I decided to use my analytical skills to automate this process completely , and this has not only reduced the Manual Touch Points to 50 MTP but also been able to increase performance by 10%.
+- So, in-order to bring most insights out of a given data in the most effective and efficient way, I decided to use my analytical skills to automate this process completely , and this has not only reduced the Manual Touch Points to 50 MTP but also been able to increase performance by 10%.
 
 - 📫 How to reach me **ankleshwariyayash@gmail.com**
 
