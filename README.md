@@ -3,12 +3,21 @@
 
 <img align="center" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashankleshwariya&label=Profile%20views&color=0e75b6&style=flat" alt="yashankleshwariya" /> </p>
 
-- 🔭 I’m currently working on Machine Learning,Tableau, Power Bi, Python ,SQL ,R 
-
+About me:
 - Finance-focused data analyst with a data-driven approach and a strong background in statistics, programming, and machine learning. Proficient in utilizing Python, R, and SQL to extract actionable insights from extensive and intricate financial datasets. Experienced in leveraging these insights to drive business growth, enhance decision making, and optimize financial strategies. Committed to staying abreast of the latest advancements in data analytics, particularly in the finance domain, and eager to apply cutting-edge techniques to tackle real-world financial challenges.
+
+- 🔭 I’m currently working on Machine Learning,Tableau, Power Bi, Python ,SQL ,R
+- Completed Integrated Program in Business Analytics from IIM Indore.
+- Data Handling and Extraction with SQL and Python
+:Data Visualization with Tableau and Python
+:Statistical Data Analysis with Excel and Python & R
+:Feature Engineering with Python for Structured and Unstructured Data Types
+:Predictive Statistical Modeling Algorithms
+:Machine Learning and Deep Learning Models on Text and Images
+:Implementing Algorithms at Scale with Big Data Systems
+:Generating Business Values and Effective Storytelling
 
 - 📫 How to reach me **ankleshwariyayash@gmail.com**
 
