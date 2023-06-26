@@ -11,7 +11,7 @@ About me:
 - 🔭 I’m currently working on Machine Learning,Tableau, Power Bi, Python ,SQL ,R
 - Completed Integrated Program in Business Analytics from IIM Indore.
 - Data Handling and Extraction with SQL and Python
-:Data Visualization with Tableau and Python
+  :Data Visualization with Tableau and Python
 :Statistical Data Analysis with Excel and Python & R
 :Feature Engineering with Python for Structured and Unstructured Data Types
 :Predictive Statistical Modeling Algorithms
