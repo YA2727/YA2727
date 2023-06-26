@@ -10,14 +10,15 @@ About me:
 
 - 🔭 I’m currently working on Machine Learning,Tableau, Power Bi, Python ,SQL ,R
 - Completed Integrated Program in Business Analytics from IIM Indore.
+  
 - Data Handling and Extraction with SQL and Python
-  :Data Visualization with Tableau and Python
-:Statistical Data Analysis with Excel and Python & R
-:Feature Engineering with Python for Structured and Unstructured Data Types
-:Predictive Statistical Modeling Algorithms
-:Machine Learning and Deep Learning Models on Text and Images
-:Implementing Algorithms at Scale with Big Data Systems
-:Generating Business Values and Effective Storytelling
+- Data Visualization with Tableau and Python
+- Statistical Data Analysis with Excel and Python & R
+- Feature Engineering with Python for Structured and Unstructured Data Types
+- Predictive Statistical Modeling Algorithms
+- Machine Learning and Deep Learning Models on Text and Images
+- Implementing Algorithms at Scale with Big Data Systems
+- Generating Business Values and Effective Storytelling
 
 - 📫 How to reach me **ankleshwariyayash@gmail.com**
 
