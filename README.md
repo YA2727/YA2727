@@ -9,7 +9,7 @@ About me:
 - Finance-focused data analyst with a data-driven approach and a strong background in statistics, programming, and machine learning. Proficient in utilizing Python, R, and SQL to extract actionable insights from extensive and intricate financial datasets. Experienced in leveraging these insights to drive business growth, enhance decision making, and optimize financial strategies. Committed to staying abreast of the latest advancements in data analytics, particularly in the finance domain, and eager to apply cutting-edge techniques to tackle real-world financial challenges.
 
 - 🔭 I’m currently working on Machine Learning,Tableau, Power Bi, Python ,SQL ,R
-- Completed Integrated Program in Business Analytics from IIM Indore.
+- Completed Integrated Program in Business Analytics from **IIM Indore.**
   
 - Data Handling and Extraction with SQL and Python
 - Data Visualization with Tableau and Python
