@@ -21,7 +21,7 @@ About me:
 - Generating Business Values and Effective Storytelling
 
 - 👨‍💻 All of my projects are available at [https://yashankleshwariya.github.io/Yash.bio/](https://yashankleshwariya.github.io/Yash.bio/)
-- Hakerrank Certification for SQL(Intermediate)[https://www.hackerrank.com/certificates/84fb29f3765c] (https://www.hackerrank.com/certificates/84fb29f3765c)
+- Hakerrank Certification for SQL(Intermediate)[https://www.hackerrank.com/certificates/84fb29f3765c](https://www.hackerrank.com/certificates/84fb29f3765c)
 - 📫 How to reach me **ankleshwariyayash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
